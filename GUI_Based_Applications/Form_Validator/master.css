@@ -1,0 +1,29 @@
+:root {
+  --sucess-color:#2ecc71;
+  --error-color: #e74c3c;
+}
+body{
+  background-color: #f9fafb;
+}
+.card{
+  margin:70px auto auto auto;
+  align-items: center;
+}
+.form-control input:focus{
+  outline:0;
+  border-color:#777;
+}
+input.success{
+  border-color: #2ecc71;
+}
+input.error{
+  border-color: #e74c3c;
+}
+small{
+  color: var(--error-color);
+  visibility: hidden;
+  position: absolute;
+}
+input.error+small{
+  visibility: visible;
+}
