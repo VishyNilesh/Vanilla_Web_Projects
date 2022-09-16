@@ -10,7 +10,7 @@
 <tbody>
 <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator">Form Validator</a></td>
+<td align="center"><a href="https://github.com/VishyNilesh/Vanilla_Web_Projects/blob/master/GUI_Based_Applications/Form_Validator/Form%20Validator.html">Form Validator</a></td>
 <td align="center"><a href="https://vanillawebprojects.com/projects/form-validator/" rel="nofollow">Live Demo</a></td>
 </tr>
 <tr>
